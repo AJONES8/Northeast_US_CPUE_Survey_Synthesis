@@ -1,0 +1,19 @@
+Stock,Number of CPUE Indices,Ensemble Kendall's Tau
+Monkfish (N),5,0.601
+Monkfish (S),5,0.588
+American Plaice,4,0.558
+Yellowtail (CC/GOM),1,0.513
+Black Sea Bass (N),3,0.467
+Yellowtail (GB),1,0.462
+Yellowtail (SNE/MA),1,0.449
+Shortfin Squid,3,0.376
+Black Sea Bass (S),3,0.324
+Bluefish,2,0.3
+Golden Tilefish,1,0.266
+Haddock (GOM),2,0.232
+Cod (WGOM),1,0.18
+Scup,1,0.142
+Halibut,1,0.116
+Cod (GB),1,0.037
+Cod (EGOM),1,-0.148
+Cod (SNE),1,-0.317

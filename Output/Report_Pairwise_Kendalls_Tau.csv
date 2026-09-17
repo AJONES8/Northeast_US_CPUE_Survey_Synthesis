@@ -1,0 +1,68 @@
+Stock,Commercial CPUE Series,Scientific Survey Series,Pairwise Kendall's Tau
+American Plaice,WP8_Jones_SpatialOnly_CPUE,NMFS_Fall_Survey_Est,0.667
+American Plaice,WP9_Terceiro_Dealer_LPUE,NMFS_Fall_Survey_Est,0.596
+American Plaice,WP8_Jones_SpatioTemporal_CPUE,NMFS_Fall_Survey_Est,0.549
+American Plaice,WP9_Terceiro_Dealer_LPUE,NMFS_Spring_Survey_Est,0.51
+American Plaice,WP7_Hankowsky_Logbook_LPUE,NMFS_Fall_Survey_Est,0.488
+American Plaice,WP7_Hankowsky_Logbook_LPUE,NMFS_Spring_Survey_Est,0.331
+American Plaice,WP8_Jones_SpatialOnly_CPUE,NMFS_Spring_Survey_Est,0.142
+American Plaice,WP8_Jones_SpatioTemporal_CPUE,NMFS_Spring_Survey_Est,0.097
+Black Sea Bass (N),North_Rec_CPUE_zscore,North_Survey_CPUE_zscore,0.747
+Black Sea Bass (N),North_GAM_CPUE_zscore,North_Survey_CPUE_zscore,0.495
+Black Sea Bass (N),North_Nominal_CPUE_zscore,North_Survey_CPUE_zscore,0.343
+Black Sea Bass (S),South_Nominal_CPUE_zscore,South_Survey_CPUE_zscore,0.333
+Black Sea Bass (S),South_Rec_CPUE_zscore,South_Survey_CPUE_zscore,0.305
+Black Sea Bass (S),South_GAM_CPUE_zscore,South_Survey_CPUE_zscore,0.086
+Bluefish,Z_MRIP_Directed,Z_Bigelow,0.389
+Bluefish,Z_MRIP_Guild,Z_Bigelow,0.361
+Bluefish,Z_MRIP_Directed,Z_Albatross,0.307
+Bluefish,Z_MRIP_Guild,Z_NEAMAP,0.279
+Bluefish,Z_MRIP_Directed,Z_NEAMAP,0.275
+Bluefish,Z_MRIP_Guild,Z_Albatross,0.252
+Cod (EGOM),LPUE_EGOM_zscored,NMFS_Fall_EGOM_zscored,0.041
+Cod (EGOM),LPUE_EGOM_zscored,NMFS_Spring_EGOM_zscored,-0.312
+Cod (GB),LPUE_GB_zscored,NMFS_Fall_GB_zscored,0.408
+Cod (GB),LPUE_GB_zscored,NMFS_Spring_GB_zscored,-0.237
+Cod (SNE),LPUE_SNE_Commercial_zscored,NMFS_Spring_SNE_zscored,-0.188
+Cod (SNE),LPUE_SNE_Commercial_zscored,NMFS_Fall_SNE_zscored,-0.442
+Cod (WGOM),LPUE_WGOM_Combined_zscored,NMFS_Fall_WGOM_zscored,0.225
+Cod (WGOM),LPUE_WGOM_Combined_zscored,NMFS_Spring_WGOM_zscored,-0.158
+Golden Tilefish,GLM_LPUE,Survey_Biomass_zscore,0.305
+Golden Tilefish,GLM_LPUE,Survey_Abundance_zscore,0.227
+Haddock (GOM),Z_StudyFleet_CPUE,Z_NMFS_Fall_Bio,0.389
+Haddock (GOM),Z_StudyFleet_CPUE,Z_NMFS_Spring_Bio,0.278
+Haddock (GOM),Z_Logbook_LPUE,Z_NMFS_Fall_Bio,0.254
+Haddock (GOM),Z_Logbook_LPUE,Z_NMFS_Spring_Bio,0.232
+Halibut,Standardized_CPUE_Est,NEFSC_Spring_Survey_Est,0.156
+Halibut,Standardized_CPUE_Est,NEFSC_Fall_Survey_Est,0
+Monkfish (N),Memo_N_Dredge_Centered,NMFS_Spring_North_Survey,0.612
+Monkfish (N),Memo_N_Trawl_Centered,NMFS_Spring_North_Survey,0.548
+Monkfish (N),Rich_N_Trawl_Observer_Centered,NMFS_Spring_North_Survey,0.469
+Monkfish (N),Memo_N_Gillnet_Centered,NMFS_Spring_North_Survey,0.415
+Monkfish (N),Memo_N_Dredge_Centered,NMFS_Fall_North_Survey,0.378
+Monkfish (N),Rich_N_Trawl_Observer_Centered,NMFS_Fall_North_Survey,0.274
+Monkfish (N),Memo_N_Gillnet_Centered,NMFS_Fall_North_Survey,0.263
+Monkfish (N),Rich_N_Trawl_Logbook_Centered,NMFS_Spring_North_Survey,0.251
+Monkfish (N),Memo_N_Trawl_Centered,NMFS_Fall_North_Survey,0.181
+Monkfish (N),Rich_N_Trawl_Logbook_Centered,NMFS_Fall_North_Survey,-0.04
+Monkfish (S),Memo_S_Trawl_Centered,NMFS_Fall_South_Survey,0.669
+Monkfish (S),Memo_S_Dredge_Centered,NMFS_Fall_South_Survey,0.636
+Monkfish (S),Memo_S_Trawl_Centered,NMFS_Spring_South_Survey,0.533
+Monkfish (S),Memo_S_Dredge_Centered,NMFS_Spring_South_Survey,0.469
+Monkfish (S),Rich_S_Gillnet_Logbook_Centered,NMFS_Fall_South_Survey,0.467
+Monkfish (S),Memo_S_Gillnet_Centered,NMFS_Fall_South_Survey,0.396
+Monkfish (S),Rich_S_Gillnet_Observer_Centered,NMFS_Fall_South_Survey,0.245
+Monkfish (S),Rich_S_Gillnet_Logbook_Centered,NMFS_Spring_South_Survey,0.114
+Monkfish (S),Memo_S_Gillnet_Centered,NMFS_Spring_South_Survey,0.063
+Monkfish (S),Rich_S_Gillnet_Observer_Centered,NMFS_Spring_South_Survey,0
+Scup,Z_MRIP_CPUE_Points,Z_Spring_ALB,0.254
+Scup,Z_MRIP_CPUE_Points,Z_Fall_ALB,0.23
+Scup,Z_MRIP_CPUE_Points,Z_Spring_BIG,0
+Scup,Z_MRIP_CPUE_Points,Z_Winter,-0.099
+Scup,Z_MRIP_CPUE_Points,Z_Fall_BIG,-0.483
+Shortfin Squid,StudyFleet_WetBoats,NEFSC_Fall,0.535
+Shortfin Squid,Observer_WetBoats,NEFSC_Fall,0.377
+Shortfin Squid,Dealer_WetBoats,NEFSC_Fall,0.359
+Yellowtail (CC/GOM),CCGOM_LPUE_ZScaled,CCGOM_SpringSurvey_ZScaled,0.513
+Yellowtail (GB),GB_LPUE_ZScaled,GB_SpringSurvey_ZScaled,0.462
+Yellowtail (SNE/MA),SNEMA_LPUE_ZScaled,SNEMA_SpringSurvey_ZScaled,0.449
