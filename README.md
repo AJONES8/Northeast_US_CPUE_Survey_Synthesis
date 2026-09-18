@@ -1,9 +1,11 @@
+# <°)))><
 # DRAFT
-# Northwest Atlantic CPUE and Survey Index Concordance Analysis
+# <°)))><
+## Northwest Atlantic CPUE and Survey Index Concordance Analysis
 
 This repository contains the dataset and analytical R code used to evaluate the quantitative fit and directional tracking of standardized commercial catch-per-unit-effort (CPUE) and landings-per-unit-effort (LPUE) indices against fishery-independent surveys. The analyses cover 18 Northwest Atlantic stocks and provide a statistical framework for testing index concordance, survey volatility, and hyperstability.
 
-## Repository Contents
+### Repository Contents
 
 * **Data:** Standardized time-series indices (CPUE, LPUE, and independent scientific surveys) across all 18 evaluated regional stocks.
 * **Correlation & Tracking Analyses:** R scripts to calculate Kendall's rank correlation ($\tau$) and Quenouille-Bartlett AR(1)-adjusted Pearson correlations ($r$) to account for time-series non-independence.
